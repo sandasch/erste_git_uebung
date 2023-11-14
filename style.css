@@ -4,6 +4,16 @@ body {
     font-color:black;
 }
 h1 {
-    font-color:green;
+    color:green;
     font-size:20px;
+}
+h2 {
+    color:orange ;
+    font-size:18px;
+}
+input {
+    padding:5px;
+}
+p {
+    color:blue;
 }
